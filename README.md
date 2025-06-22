@@ -1,39 +1,41 @@
-# 👋 Hello there! I'm Alan Norbert
+# Namaste
 
 ## Software Developer | Cloud Enthusiast
 
-🔧 I'm a passionate software developer with hands-on experience in **LLM's**, **VoIP (Asterisk & FreePBX)**, **PHP backend development**, and **cloud-native application design**. I enjoy solving real-world problems using code and infrastructure, and I constantly explore new technologies to build smarter systems.
+I'm a passionate software developer with hands-on experience in **LLM's**, **VoIP (Asterisk & FreePBX)**, **PHP backend development**, and **cloud-native application design**. I enjoy solving real-world problems using code and infrastructure, and I constantly explore new technologies to build smarter systems.
 
 ---
 
-## 🚀 Skills & Technologies
+##  Skills & Technologies
 
-- **Languages**: PHP, Python, JavaScript, Bash, C, Java
+- **Languages**: PHP, Python, JavaScript, Bash, C, Java (English also)
 - **VoIP Stack**: Asterisk, FreePBX, Twilio
 - **Web Development**: HTML5, CSS, MySQL, Flask
-- **Cloud Platforms**: Google Cloud (Cloud Run, Cloud Functions, IAM, Compute Engine), AWS
+- **Cloud Platforms**: Google Cloud, AWS
 - **Machine Learning**: DeepSeek, OpenAI, U-Net, ResNet, Sentiment Analysis
-- **Tools & DevOps**: Git, Postman, VS Code, Linux, MariaDB
+- **Tools & DevOps**: Git (Obviously), Postman, VS Code, Linux, MariaDB
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
-- MERN Stack Development (MongoDB, Express.js, React.js, Node.js)
-- Advanced cloud-native design patterns (Cloud Run, Pub/Sub, Cloud Build)
-- Self-hosted LLM inference using vLLM
-
----
-
-## 📫 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/alan-j-norbert/)
+- MERN Stack Development (Cause it has React)
+- Artificial Inteligence (Cause it's the trend)
+- Cloud platform (It seems interesting)
+- Self-hosted LLM inference using vLLM and Olama (Testing laptop GPU)
 
 ---
 
-⚡ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+##  Let’s Connect
 
-Thanks for stopping by! 🌟
+-  [LinkedIn](https://www.linkedin.com/in/alan-j-norbert/)
+
+---
+
+⚡ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House* (- ChatGPT)
+
+Thanks for stopping by! 
+
 
 
 <!--
