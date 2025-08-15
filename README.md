@@ -23,6 +23,7 @@ I'm a passionate software developer with hands-on experience in **LLM's**, **VoI
 - Artificial Inteligence (Cause it's the trend)
 - Cloud platform (It seems interesting)
 - Self-hosted LLM inference using vLLM and Olama (Testing laptop GPU)
+- Prompt Engineering (You know why)
 
 ---
 
