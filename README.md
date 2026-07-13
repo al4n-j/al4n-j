@@ -142,7 +142,7 @@ Batching + model tiering that cut per-review inference cost by **80%** without s
 
 <div align="center">
 
-[<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KPHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIGZpbGw9IiMwMDAwMDAiLz4KPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTkuMiw3Ni44KSBzY2FsZSgwLjcpIj4KPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEwMC4yOCA0NDhINy40VjE0OC45aDkyLjg4ek01My43OSAxMDguMUMyNC4wOSAxMDguMSAwIDgzLjUgMCA1My44YTUzLjc5IDUzLjc5IDAgMCAxIDEwNy41OCAwYzAgMjkuNy0yNC4xIDU0LjMtNTMuNzkgNTQuM000NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjJjLTQ4LjI5IDAtNTUuNjkgMzcuNy01NS42OSA3Ni43VjQ0OGgtOTIuNzhWMTQ4LjloODkuMDh2NDAuOGgxLjNjMTIuNC0yMy41IDQyLjY5LTQ4LjMgODcuODgtNDguM2M5NCAwIDExMS4yOCA2MS45IDExMS4yOCAxNDIuM1Y0NDh6Ii8+CjwvZz4KPC9zdmc+Cg==" width="48" height="48" alt="LinkedIn"/>](https://linkedin.com/in/alan-j-norbert)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=%20&color=000000&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-j-norbert)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/static/v1?label=&message=%20&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/al4n-j)
 &nbsp;&nbsp;
