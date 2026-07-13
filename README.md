@@ -144,11 +144,11 @@ Batching + model tiering that cut per-review inference cost by **80%** without s
 
 [<img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=48" width="48" height="48" alt="LinkedIn"/>](https://linkedin.com/in/alan-j-norbert)
 &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub"/>](https://github.com/al4n-j)
+[![GitHub](https://img.shields.io/static/v1?label=&message=%20&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/al4n-j)
 &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/x/000000" width="48" height="48" alt="X"/>](https://x.com/_a14n)
+[![X](https://img.shields.io/static/v1?label=&message=%20&color=000000&style=for-the-badge&logo=x&logoColor=white)](https://x.com/_a14n)
 &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/gmail/D14836" width="48" height="48" alt="Gmail"/>](mailto:alann8626@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?label=&message=%20&color=000000&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alann8626@gmail.com)
 
 </div>
 
