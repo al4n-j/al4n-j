@@ -9,21 +9,27 @@ I'm an AI Engineer specializing in **Generative AI**, **LLM orchestration**, and
 ## ⚙️ What I'm Building With
 
 **AI / LLM**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge) ![Multimodal LLMs](https://img.shields.io/badge/Multimodal_LLMs-6A0DAD?style=for-the-badge) ![HITL Systems](https://img.shields.io/badge/HITL_Systems-8A2BE2?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-9932CC?style=for-the-badge) ![LLMOps](https://img.shields.io/badge/LLMOps-663399?style=for-the-badge) ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-800080?style=for-the-badge) ![Agentic Pipelines](https://img.shields.io/badge/Agentic_Pipelines-4B0082?style=for-the-badge)
 
 **Model Serving**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white) ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-2E8B57?style=for-the-badge)
 
 **Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Cloud & Infra**
+
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **Architecture**
+
 ![Event-Driven](https://img.shields.io/badge/Event--Driven_Systems-1E3A5F?style=for-the-badge) ![Microservices](https://img.shields.io/badge/Microservices-2C3E50?style=for-the-badge) ![Async Pipelines](https://img.shields.io/badge/Async_Pipelines-34495E?style=for-the-badge) ![Cost-Optimized Inference](https://img.shields.io/badge/Cost--Optimized_Inference-16A085?style=for-the-badge)
 
 ---
