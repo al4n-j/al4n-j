@@ -142,14 +142,14 @@ Batching + model tiering that cut per-review inference cost by **80%** without s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=al4n-j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=al4n-j&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=al4n-j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=al4n-j&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al4n-j&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al4n-j&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Top Languages"/>
 
 </div>
 
-> 💡 If any of the stats cards above show "no data" or a low-activity theme, it's likely because they're pulling from your public GitHub activity — nothing to fix on the README side.
+> 💡 The main stats + top-languages cards are served by the public `github-readme-stats.vercel.app` instance, which is community-run and gets rate-limited often — that's usually why a card shows a broken `?` icon rather than data. If it stays broken after a refresh, the reliable fix is [deploying your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (one-click on Vercel, free) and swapping the domain in the URLs above.
 
 ---
 
@@ -157,10 +157,10 @@ Batching + model tiering that cut per-review inference cost by **80%** without s
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-j-norbert)
-[![GitHub](https://img.shields.io/static/v1?label=&message=&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/al4n-j)
-[![X](https://img.shields.io/static/v1?label=&message=&color=000000&style=for-the-badge&logo=x&logoColor=white)](https://x.com/_a14n)
-[![Gmail](https://img.shields.io/static/v1?label=&message=&color=D14836&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alann8626@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=%20&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-j-norbert)
+[![GitHub](https://img.shields.io/static/v1?label=&message=%20&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/al4n-j)
+[![X](https://img.shields.io/static/v1?label=&message=%20&color=000000&style=for-the-badge&logo=x&logoColor=white)](https://x.com/_a14n)
+[![Gmail](https://img.shields.io/static/v1?label=&message=%20&color=D14836&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alann8626@gmail.com)
 
 </div>
 
