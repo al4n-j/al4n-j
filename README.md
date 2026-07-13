@@ -142,7 +142,7 @@ Batching + model tiering that cut per-review inference cost by **80%** without s
 
 <div align="center">
 
-[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="48" height="48" alt="LinkedIn"/>](https://linkedin.com/in/alan-j-norbert)
+[<img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=48" width="48" height="48" alt="LinkedIn"/>](https://linkedin.com/in/alan-j-norbert)
 &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub"/>](https://github.com/al4n-j)
 &nbsp;&nbsp;
