@@ -54,7 +54,10 @@ I'm an AI Engineer specializing in **Generative AI**, **LLM orchestration**, and
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-j-norbert) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_a14n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alann8626@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-j-norbert)
+[![GitHub](https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/al4n-j)
+[![X](https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_a14n)
+[![Gmail](https://img.shields.io/badge/-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alann8626@gmail.com)
 
 ---
 
