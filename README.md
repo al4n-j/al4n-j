@@ -142,13 +142,13 @@ Batching + model tiering that cut per-review inference cost by **80%** without s
 
 <div align="center">
 
-[<img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=48" width="48" height="48" alt="LinkedIn"/>](https://linkedin.com/in/alan-j-norbert)
+[<img src="https://cdn.simpleicons.org/linkedin/0A66C2/0A66C2" width="48" height="48" alt="LinkedIn"/>](https://linkedin.com/in/alan-j-norbert)
 &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub"/>](https://github.com/al4n-j)
+[<img src="https://cdn.simpleicons.org/github/181717/white" width="48" height="48" alt="GitHub"/>](https://github.com/al4n-j)
 &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/x/000000" width="48" height="48" alt="X"/>](https://x.com/_a14n)
+[<img src="https://cdn.simpleicons.org/x/000000/white" width="48" height="48" alt="X"/>](https://x.com/_a14n)
 &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/gmail/D14836" width="48" height="48" alt="Gmail"/>](mailto:alann8626@gmail.com)
+[<img src="https://cdn.simpleicons.org/gmail/D14836/D14836" width="48" height="48" alt="Gmail"/>](mailto:alann8626@gmail.com)
 
 </div>
 
