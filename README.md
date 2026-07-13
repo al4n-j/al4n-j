@@ -1,66 +1,177 @@
-# Namaste 👋
+<div align="center">
 
-## AI Engineer | LLM Systems | Agentic Pipelines
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Namaste%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20LLM%20Systems%20|%20Agentic%20Pipelines&descAlignY=58&descSize=18" width="100%"/>
 
-I'm an AI Engineer specializing in **Generative AI**, **LLM orchestration**, and **agentic pipelines** — I take ideas from "client said this in a meeting" all the way to "it's running in production on GCP/AWS." I enjoy turning messy manual workflows into configurable, self-driving AI systems, and I'm always poking at new tools to make that pipeline smarter, cheaper, or faster.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+agentic+AI+pipelines+that+ship+to+prod;LangChain+%2B+RAG+%2B+multimodal+LLMs;Turning+messy+workflows+into+self-driving+systems;Currently+bullying+a+laptop+GPU+with+vLLM;&font=Fira%20Code&center=true&width=600&height=45&color=6EE7B7&vCenter=true&size=20" alt="Typing SVG" />
+</a>
+
+</div>
 
 ---
 
-## ⚙️ What I'm Building With
+### 🧠 About Me
+
+I'm an AI Engineer specializing in **Generative AI**, **LLM orchestration**, and **agentic pipelines** — I take ideas from *"client said this in a meeting"* all the way to *"it's running in production on GCP/AWS."* I enjoy turning messy manual workflows into configurable, self-driving AI systems, and I'm always poking at new tools to make that pipeline smarter, cheaper, or faster.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🔭 Currently working on**
+An enterprise AI survey validation platform, chasing a 50% fully-automated publish rate.
+
+**👯 Looking to collaborate on**
+Multi-agent orchestration & cost-optimized LLM inference.
+
+**🤝 Looking for help with**
+Self-hosted inference tuning (vLLM & Ollama vs. my laptop GPU).
+
+</td>
+<td valign="top" width="50%">
+
+**🌱 Currently learning**
+Deeper LLMOps — eval harnesses, model tiering, observability. Also dabbling in MERN.
+
+**💬 Ask me about**
+Agentic pipelines, RAG, prompt engineering, or LLMOps in production.
+
+**⚡ Fun fact**
+Cut inference costs 80% just by being stingy about which model answers what.
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚙️ Tech Stack
+
+<div align="center">
 
 **AI / LLM**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge) ![Multimodal LLMs](https://img.shields.io/badge/Multimodal_LLMs-6A0DAD?style=for-the-badge) ![HITL Systems](https://img.shields.io/badge/HITL_Systems-8A2BE2?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-9932CC?style=for-the-badge) ![LLMOps](https://img.shields.io/badge/LLMOps-663399?style=for-the-badge) ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-800080?style=for-the-badge) ![Agentic Pipelines](https://img.shields.io/badge/Agentic_Pipelines-4B0082?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![Multimodal LLMs](https://img.shields.io/badge/Multimodal_LLMs-6A0DAD?style=for-the-badge)
+![HITL Systems](https://img.shields.io/badge/HITL_Systems-8A2BE2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-9932CC?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-663399?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-800080?style=for-the-badge)
+![Agentic Pipelines](https://img.shields.io/badge/Agentic_Pipelines-4B0082?style=for-the-badge)
 
 **Model Serving**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white) ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-2E8B57?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-2E8B57?style=for-the-badge)
 
 **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Cloud & Infra**
 
-![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **Architecture**
 
-![Event-Driven](https://img.shields.io/badge/Event--Driven_Systems-1E3A5F?style=for-the-badge) ![Microservices](https://img.shields.io/badge/Microservices-2C3E50?style=for-the-badge) ![Async Pipelines](https://img.shields.io/badge/Async_Pipelines-34495E?style=for-the-badge) ![Cost-Optimized Inference](https://img.shields.io/badge/Cost--Optimized_Inference-16A085?style=for-the-badge)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Systems-1E3A5F?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-2C3E50?style=for-the-badge)
+![Async Pipelines](https://img.shields.io/badge/Async_Pipelines-34495E?style=for-the-badge)
+![Cost-Optimized Inference](https://img.shields.io/badge/Cost--Optimized_Inference-16A085?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🚀 What I've Shipped
+### 🚀 What I've Shipped
 
-- **AI Survey Validation Platform** — Solo-architected an enterprise survey validation system end-to-end (client requirements → design → deployment). Client-configurable prompts, toggleable AI components, chasing a 50% fully-automated publish rate.
-- **Multi-Stage Agentic Review Pipeline** — A LangChain pipeline with a guardrail layer + multimodal auditor agent that reasons over text, metadata, and images to auto-publish/reject/escalate — automating 85%+ of decisions, 6x faster than manual review.
-- **Time-Decay RAG Memory** — Vector-search retrieval system over PostgreSQL that surfaces relevant past decisions to ground LLM reasoning and cut hallucination.
-- **Cost-Optimized Prompting** — Batching + model tiering that cut per-review inference cost by 80% without sacrificing throughput.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧩 AI Survey Validation Platform
+Solo-architected an enterprise survey validation system end-to-end (client requirements → design → deployment). Client-configurable prompts, toggleable AI components, chasing a **50%** fully-automated publish rate.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 Multi-Stage Agentic Review Pipeline
+A LangChain pipeline with a guardrail layer + multimodal auditor agent that reasons over text, metadata, and images to auto-publish/reject/escalate — automating **85%+** of decisions, **6x faster** than manual review.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 Time-Decay RAG Memory
+Vector-search retrieval system over PostgreSQL that surfaces relevant past decisions to ground LLM reasoning and cut hallucination.
+
+</td>
+<td width="50%" valign="top">
+
+#### 💸 Cost-Optimized Prompting
+Batching + model tiering that cut per-review inference cost by **80%** without sacrificing throughput.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔭 Currently Exploring
+### 📊 GitHub Stats
 
-- Scaling agentic pipelines beyond single-agent review (multi-agent orchestration)
-- Self-hosted inference tuning with vLLM & Ollama (still bullying my laptop GPU)
-- Deeper LLMOps — evaluation harnesses, model tiering strategies, observability
-- MERN stack, mostly because React makes frontend less painful
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=al4n-j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=al4n-j&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al4n-j&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
+
+> 💡 If any of the stats cards above show "no data" or a low-activity theme, it's likely because they're pulling from your public GitHub activity — nothing to fix on the README side.
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-j-norbert)
+[![GitHub](https://img.shields.io/static/v1?label=&message=&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/al4n-j)
+[![X](https://img.shields.io/static/v1?label=&message=&color=000000&style=for-the-badge&logo=x&logoColor=white)](https://x.com/_a14n)
+[![Gmail](https://img.shields.io/static/v1?label=&message=&color=D14836&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alann8626@gmail.com)
+
+</div>
 
 ---
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-j-norbert)
-[![GitHub](https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/al4n-j)
-[![X](https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_a14n)
-[![Gmail](https://img.shields.io/badge/-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alann8626@gmail.com)
-
----
+<div align="center">
 
 ⚡ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-Thanks for stopping by!
+**Thanks for stopping by!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
